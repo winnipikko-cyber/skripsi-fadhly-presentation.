@@ -1,0 +1,57 @@
+analisis konsep dan literatur; bukan survei, wawancara, atau eksperimen.</p></div>
+<div class="method"><small>Objek formal</small><h3>Bad faith Sartre</h3><p>Kebebasan, faktisitas, transendensi, anguish, tanggung jawab, dan konsep pendukung.</p></div>
+<div class="method"><small>Objek material</small><h3>Digital infidelity</h3><p>Pelanggaran batas hubungan melalui keterlibatan emosional, romantis, dan/atau seksual secara digital.</p></div>
+</div>
+<div class="limit-note reveal d4"><strong>Batas penelitian</strong><span>Tidak mendiagnosis individu, tidak mengukur prevalensi, dan tidak menganggap semua rasionalisasi otomatis sebagai bad faith.</span></div>
+<div class="source reveal d4"><strong>Sumber utama:</strong> Sartre, <em>Existentialism and Humanism</em>; Bertens; Fuad Hassan; literatur akademik Sartre; serta riset digital infidelity.</div>
+</div></div>
+</section>
+<section class="scene" data-group="Kerangka" data-read="08 · Mengapa Sartre" data-title="Mengapa Sartre" id="sartre">
+<div class="slide"><div class="wrap sartre-grid">
+<div aria-label="Foto Jean-Paul Sartre" class="portrait reveal"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Sartre_closeup.jpg" alt="Jean-Paul Sartre" referrerpolicy="no-referrer"></div>
+<div>
+<div class="eyebrow reveal d2">Mengapa Sartre?</div>
+<h2 class="reveal d2">Karena <em>bad faith</em> berangkat dari cara Sartre memahami manusia: ada terlebih dahulu, lalu membentuk dirinya melalui pilihan.</h2>
+<p class="lead reveal d3">Manusia memang hidup dalam keadaan yang tidak seluruhnya ia pilih. Tetapi ia tetap harus menentukan sikap. Karena itu kebebasan selalu membawa tanggung jawab; kesadaran bahwa keputusan tetap harus dibuat sendiri dapat menimbulkan <em>anguish</em>, dan dari sinilah penghindaran terhadap kebebasan dapat muncul sebagai <em>bad faith</em>.</p>
+<div class="sartre-facts reveal d4"><span>Eksistensi mendahului esensi</span><span>Pilihan → kebebasan → tanggung jawab</span><span><em>Anguish</em> → godaan menghindari kebebasan → <em>bad faith</em></span></div>
+</div>
+</div></div>
+</section>
+<section class="scene" data-group="Kerangka" data-read="09 · Kerangka Sartre" data-title="Kerangka Sartre" id="teori">
+<div class="slide"><div class="wrap">
+<div class="eyebrow reveal">Kerangka Eksistensial Sartre</div>
+<h2 class="reveal d2">Manusia tidak memilih semua keadaan, tetapi melalui pilihannya ia terus membentuk siapa dirinya.</h2>
+<div class="concept-map reveal d3">
+<div class="concept-box"><small>Faktisitas</small><h3>Apa yang sudah ada.</h3><p>Status hubungan, komitmen, tindakan yang sudah dilakukan, kondisi relasi, dan situasi konkret.</p></div>
+<div class="connector">↔</div>
+<div class="concept-box"><small>Transendensi</small><h3>Apa yang masih mungkin dilakukan.</h3><p>Melanjutkan, berhenti, jujur, menyembunyikan, membuat batas, atau mengambil keputusan lain.</p></div>
+<div class="connector">→</div>
+<div class="concept-box"><small>Kebebasan tersituasi</small><h3>Pilihan bekerja di dalam keadaan.</h3><p>Pengaruh nyata tidak otomatis sama dengan paksaan atau hilangnya seluruh pilihan.</p></div>
+</div>
+<div class="badfaith-band reveal d4"><span>Mengecilkan fakta yang sudah ada</span><strong><em>Bad faith</em><br/>memahami diri secara tidak utuh</strong><span>Membuat diri seolah tidak punya pilihan</span></div>
+<div class="source reveal d4"><strong>Sumber konsep:</strong> Sartre; Bertens, <em>Filsafat Barat Kontemporer Prancis</em>; Fuad Hassan; Reynolds &amp; Renaudie.</div>
+</div></div>
+</section>
+<section class="scene" data-group="Analisis" data-read="10 · Digital Infidelity" data-title="Digital Infidelity" id="digital-infidelity">
+<div class="slide"><div class="wrap">
+<div class="eyebrow reveal">Objek Material</div>
+<h2 class="reveal d2">Digital infidelity tidak cukup dinilai dari ada atau tidaknya kontak fisik.</h2>
+<p class="definition reveal d3">Keterlibatan emosional, romantis, dan/atau seksual dengan pihak ketiga melalui teknologi digital yang bertentangan dengan batas eksklusivitas atau komitmen hubungan.</p>
+<div class="criteria reveal d3">
+<div class="criterion"><small>01</small><strong>Niat</strong></div><div class="criterion"><small>02</small><strong>Batas hubungan</strong></div><div class="criterion"><small>03</small><strong>Pola tindakan</strong></div><div class="criterion"><small>04</small><strong>Kerahasiaan</strong></div><div class="criterion"><small>05</small><strong>Dampak relasional</strong></div>
+</div>
+<div class="spectrum reveal d4"><span>chat intim</span><span>flirting</span><span>emotional affair</span><span>dating apps</span><span>sexting</span><span>cybersex</span></div>
+<div class="source reveal d4"><strong>Sumber:</strong> Whitty (2003); McQueen (2021); Aldemir (2026); Saraswati &amp; Ratnasari (2025). Kerahasiaan dipakai sebagai indikator penting, bukan syarat tunggal.</div>
+</div></div>
+</section>
+<section class="scene" data-group="Analisis" data-read="11 · Pola Rasionalisasi" data-title="Pola Rasionalisasi" id="rasionalisasi">
+<div class="slide"><div class="wrap">
+<div class="eyebrow reveal">Analisis Bab IV</div>
+<h2 class="reveal d2">Enam pola rasionalisasi dibaca kembali melalui dua struktur Sartrean.</h2>
+<div class="rational-grid reveal d3">
+<div class="rational facticity"><small>01 · Penyangkalan faktisitas</small><strong>“Cuma chat / tidak pernah ketemu.”</strong></div>
+<div class="rational facticity"><small>02 · Penyangkalan faktisitas</small><strong>“Cuma teman curhat.”</strong></div>
+<div class="rational transcendence"><small>03 · Penyangkalan transendensi</small><strong>“Pasangan saya cuek.”</strong></div>
+<div class="rational transcendence"><small>04 · Penyangkalan transendensi</small><strong>“Dia yang mulai duluan.”</strong></div>
+<div class="rational transcendence"><small>05 · Penyangkalan transendensi</small><strong>“Algoritma / saya sedang stres.”</strong></div>
+<div class="rational transcendence"><small>06 · Penyangkalan transendensi</small><strong>“Semua orang juga begitu.”</strong><
