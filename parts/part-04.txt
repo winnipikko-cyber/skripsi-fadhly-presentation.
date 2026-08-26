@@ -1,0 +1,44 @@
+olid var(--line);overflow:visible}.read-mode .scene[data-tone="dark"]{min-height:680px}.read-mode .scene:before{content:attr(data-read);position:absolute;right:28px;top:26px;color:var(--muted);font-size:10px;font-weight:750;letter-spacing:.08em}.read-mode .read-header{display:flex}.read-header{display:none;position:sticky;top:0;z-index:150;height:58px;background:rgba(244,240,232,.94);backdrop-filter:blur(14px);border-bottom:1px solid var(--line);align-items:center}.read-header .wrap{display:flex;align-items:center;justify-content:space-between;font-size:12px}.read-header strong{font-size:13px}.read-header button{border:1px solid var(--line);background:var(--paper-2);padding:7px 10px}
+
+/* animation */
+.scene.active .reveal{animation:rise .42s cubic-bezier(.2,.72,.2,1) both}.scene.active .reveal.d2{animation-delay:.08s}.scene.active .reveal.d3{animation-delay:.16s}.scene.active .reveal.d4{animation-delay:.24s}
+@keyframes rise{from{opacity:0;transform:translateY(9px)}to{opacity:1;transform:none}}
+@keyframes grow{from{transform:scaleY(.05)}to{transform:scaleY(1)}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.scene.active .reveal,.bar{animation:none}.progress,.chrome{transition:none}}
+
+/* responsive & projector */
+@media(max-height:760px) and (min-width:900px){
+ .scene{padding:40px 0 58px}.wrap{width:min(1120px,calc(100% - 54px))}h1{font-size:58px}h2{font-size:42px}.lead{font-size:18px}.eyebrow{margin-bottom:12px}.cover-grid{grid-template-columns:1fr 220px;gap:40px}.agenda{margin-top:22px}.agenda-item{padding:16px}.empirical{gap:32px}.bar-chart{height:190px}.evidence{padding:11px 0}.question{font-size:29px;padding:20px 0;margin-top:20px}.questions{margin-top:16px}.question-row{padding:12px 0}.method-grid,.concept-map,.position-grid,.findings,.answers{margin-top:20px}.method{min-height:145px;padding:17px}.sartre-grid{grid-template-columns:230px 1fr;gap:42px}.portrait{height:300px}.definition{font-size:30px;margin:16px 0 20px}.rational-grid{margin-top:18px}.rational{min-height:98px;padding:12px 14px}.rational strong{font-size:19px}.finding{padding:21px}.finding h3{font-size:25px}.synthesis{margin-top:22px}.synth{min-height:120px;padding:14px 12px}.answer{min-height:190px;padding:18px}.closing-point{padding:12px 0}.chrome{bottom:14px}
+}
+@media(max-width:900px){
+ body:not(.read-mode){overflow:auto}.progress,.chrome{display:none}.scene{display:grid!important;height:auto;min-height:100svh;padding:62px 0;overflow:visible;border-bottom:1px solid var(--line)}.wrap{width:min(100% - 30px,var(--max))}.cover-grid,.split,.split.reverse,.empirical,.sartre-grid,.closing-grid{grid-template-columns:1fr}.cover-side{border-left:0;border-top:1px solid var(--line);padding:18px 0 0}.agenda{grid-template-columns:1fr 1fr}.flow{grid-template-columns:1fr 1fr}.flow-step:not(:last-child):after{display:none}.position-grid{grid-template-columns:1fr}.position-arrow{transform:rotate(90deg)}.method-grid{grid-template-columns:1fr}.concept-map{grid-template-columns:1fr}.connector{transform:rotate(90deg)}.badfaith-band{grid-template-columns:1fr}.criteria{grid-template-columns:1fr 1fr}.criterion{border-bottom:1px solid var(--line)}.rational-grid{grid-template-columns:1fr 1fr}.findings,.answers{grid-template-columns:1fr}.synthesis{grid-template-columns:1fr 1fr}.synth:not(:last-child):after{display:none}.overview-grid{grid-template-columns:1fr}.overlay{padding:20px}.read-header{display:flex}
+}
+@media(max-width:560px){h1{font-size:43px}h2{font-size:34px}.lead{font-size:18px}.agenda,.flow,.rational-grid,.synthesis,.branch{grid-template-columns:1fr}.bar-chart{height:220px}.evidence{grid-template-columns:65px 1fr}.question-row{grid-template-columns:45px 1fr}.question-row p{font-size:17px}.criteria{grid-template-columns:1fr}.criterion{border-right:0}.cover-meta{display:grid;gap:5px}.cover-meta span{border:0;padding:0}.limit-note{display:block}.limit-note strong{display:block;margin-bottom:7px}}
+@media print{.progress,.chrome,.overlay,.read-header{display:none!important}.scene{display:block!important;height:auto!important;min-height:0!important;padding:34px 24px!important;page-break-after:always;border:0!important}.scene[data-tone="dark"]{background:#fff!important;color:#000!important}.scene[data-tone="dark"] *{color:#000!important}.bar{background:#555!important}}
+
+/* PATCH-ONLY overrides: requested presentation changes */
+.cover-grid{grid-template-columns:minmax(0,1fr)!important;gap:0!important}.cover-grid>div{max-width:920px}.portrait:before{content:none!important}.portrait img{width:100%;height:100%;object-fit:cover;object-position:center top;display:block;filter:grayscale(100%)}
+</style>
+</head>
+<body>
+<div class="progress" id="progress"></div>
+<header class="read-header"><div class="wrap"><strong>Bad Faith dalam Perselingkuhan Digital</strong><button id="backToPresent">Mode Presentasi</button></div></header>
+<main class="deck" id="deck">
+<section class="scene active" data-group="Pembuka" data-read="01 · Cover" data-title="Cover" id="cover">
+<div class="slide"><div class="wrap cover-grid">
+<div>
+<div class="eyebrow reveal">Sidang Skripsi · 2026</div>
+<h1 class="reveal d2">Bad Faith dalam Perselingkuhan Digital</h1>
+<p class="lead reveal d3">Perspektif Filsafat Eksistensial Jean-Paul Sartre</p>
+<div class="cover-meta reveal d4"><span>Fadhly Aziez Jalaluddin</span><span>121104011</span><span>Falsafah dan Agama</span><span>Universitas Paramadina</span></div>
+</div>
+</div></div>
+</section>
+
+<section class="scene" data-group="Masalah" data-read="02 · Latar Belakang" data-title="Latar Belakang" id="latar-belakang">
+<div class="slide"><div class="wrap split">
+<div>
+<div class="eyebrow reveal">Latar Belakang</div>
+<h2 class="reveal d2">Relasi romantis ikut berpindah ke ruang digital.</h2>
+<p class="lead reveal d3">Media sosial, pesan privat, dan aplikasi kencan membuat kedekatan emosional atau seksual dapat terbentuk tanpa pertemuan fisik.</p>
+<div class="term-row reveal d4"><span class="term">chat intim</span><span class
