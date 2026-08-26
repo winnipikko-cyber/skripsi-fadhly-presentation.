@@ -1,0 +1,70 @@
+="term">flirting</span><span class="term">sexting</span><span class="term">dating apps</span><span class="term">emotional intimacy</span></div>
+</div>
+<div class="visual-note reveal d3"><p>Masalahnya bukan hanya <em>apa medianya</em>, tetapi apakah tindakan itu bertentangan dengan batas hubungan dan bagaimana tindakan itu kemudian dibenarkan.</p></div>
+</div></div>
+</section>
+<section class="scene" data-group="Masalah" data-read="03 · Urgensi Empiris" data-title="Urgensi Empiris" id="data">
+<div class="slide"><div class="wrap">
+<div class="eyebrow reveal">Urgensi Empiris</div>
+<h2 class="reveal d2">Ruang digital luas, dan persoalan perselingkuhan daring sudah muncul dalam riset Indonesia.</h2>
+<div class="empirical reveal d3">
+<div class="chart-card">
+<div class="chart-title">Penduduk Indonesia yang mengakses internet</div>
+<div aria-label="Akses internet Indonesia 2023 69,21 persen; 2024 72,78 persen" class="bar-chart">
+<div class="bar-col"><div class="bar-value">69,21%</div><div class="bar-wrap"><div class="bar" style="--h:69.21%"></div></div><div class="bar-label">2023</div></div>
+<div class="bar-col"><div class="bar-value">72,78%</div><div class="bar-wrap"><div class="bar" style="--h:72.78%"></div></div><div class="bar-label">2024</div></div>
+</div>
+</div>
+<div class="evidence-list">
+<div class="evidence"><strong>25%</strong><p>Kepuasan pernikahan berperan terhadap kecenderungan <em>internet infidelity</em> pada studi pasangan menikah di Sumatera Barat.</p></div>
+<div class="evidence"><strong>172</strong><p>Dewasa muda Indonesia diteliti dalam studi O-EDI; attachment dan komitmen ditemukan sebagai prediktor signifikan.</p></div>
+<div class="evidence"><strong>+</strong><p>Moral disengagement berhubungan positif signifikan dengan sikap terhadap perselingkuhan daring pada dewasa muda.</p></div>
+</div>
+</div>
+<div class="source reveal d4"><strong>Sumber:</strong> BPS, <em>Statistik Telekomunikasi Indonesia 2024</em> (2025); Syafiyah dkk. (2024); Savitri &amp; Dimarsha (2024); Saraswati &amp; Ratnasari (2025).</div>
+</div></div>
+</section>
+<section class="scene" data-group="Masalah" data-read="04 · Masalah Filosofis" data-title="Masalah Filosofis" id="masalah">
+<div class="slide"><div class="wrap">
+<div class="eyebrow reveal">Masalah Filosofis</div>
+<h2 class="reveal d2">Masalahnya bukan hanya “apa yang terjadi”, tetapi bagaimana tindakan itu dibenarkan.</h2>
+<div class="flow reveal d3">
+<div class="flow-step"><small>Situasi</small><strong>Teknologi, relasi, stres</strong><p>Kondisi yang benar-benar memengaruhi subjek.</p></div>
+<div class="flow-step"><small>Tindakan digital</small><strong>Chat intim, flirting, sexting</strong><p>Tindakan yang terjadi melalui medium digital.</p></div>
+<div class="flow-step"><small>Konflik</small><strong>Batas hubungan dilanggar</strong><p>Ada ketegangan antara tindakan dan komitmen.</p></div>
+<div class="flow-step"><small>Alasan</small><strong>“Cuma chat”, “dia duluan”</strong><p>Tindakan diceritakan kembali melalui alasan tertentu.</p></div>
+</div>
+<div class="question reveal d4">Kapan alasan masih menjadi penjelasan yang wajar, dan kapan ia menjadi cara <strong>menghindari fakta, pilihan, dan tanggung jawab?</strong></div>
+</div></div>
+</section>
+<section class="scene" data-group="Masalah" data-read="05 · Rumusan Masalah" data-title="Rumusan Masalah" id="rumusan">
+<div class="slide"><div class="wrap">
+<div class="eyebrow reveal">Rumusan Masalah &amp; Tujuan</div>
+<h2 class="reveal d2">Tiga pertanyaan yang mengikat teori, objek, dan analisis.</h2>
+<div class="questions reveal d3">
+<div class="question-row"><div class="n">01</div><p>Bagaimana susunan filosofis konsep <em>bad faith</em> dalam pemikiran Sartre?</p></div>
+<div class="question-row"><div class="n">02</div><p>Bagaimana karakteristik <em>digital infidelity</em> sebagai pelanggaran batas dan komitmen?</p></div>
+<div class="question-row"><div class="n">03</div><p>Bagaimana <em>bad faith</em> membaca mekanisme rasionalisasi pelaku <em>digital infidelity</em>?</p></div>
+</div>
+<div class="goal-line reveal d4"><strong>Tujuan akhirnya:</strong> menjelaskan hubungan antara rasionalisasi, fakta, pilihan, dan tanggung jawab.</div>
+</div></div>
+</section>
+<section class="scene" data-group="Kerangka" data-read="06 · Posisi Penelitian" data-title="Posisi Penelitian" id="kebaruan">
+<div class="slide"><div class="wrap">
+<div class="eyebrow reveal">Posisi &amp; Kebaruan</div>
+<h2 class="reveal d2">Kebaruannya ada pada sudut pandang analisis, bukan pada klaim bahwa fenomenanya baru.</h2>
+<div class="position-grid reveal d3">
+<div class="position-card"><small>Penelitian terdahulu</small><h3>Sudah membahas digital infidelity.</h3><p>Psikologi, hubungan interpersonal, moral disengagement, etika seksual, fikih, dan kajian relasional sudah memberi banyak penjelasan tentang fenomenanya.</p></div>
+<div class="position-arrow">→</div>
+<div class="position-card"><small>Penelitian ini</small><h3>Membaca rasionalisasi melalui bad faith Sartre.</h3><p>Fokusnya bukan mencari penyebab tunggal, tetapi melihat bagaimana subjek memahami pilihan dan tanggung jawabnya di tengah situasi digital.</p></div>
+</div>
+<div class="contribution reveal d4"><strong>Kontribusi:</strong> mempertemukan kajian <em>digital infidelity</em> dengan <em>bad faith</em> sebagai model interpretasi filosofis.</div>
+<div class="source reveal d4"><strong>Sumber:</strong> sintesis tinjauan pustaka skripsi, terutama Savitri &amp; Dimarsha; Saraswati &amp; Ratnasari; Syafiyah dkk.; Panani; McQueen; serta kajian Sartre kontemporer.</div>
+</div></div>
+</section>
+<section class="scene" data-group="Kerangka" data-read="07 · Metodologi" data-title="Metodologi" id="metode">
+<div class="slide"><div class="wrap">
+<div class="eyebrow reveal">Metodologi</div>
+<h2 class="reveal d2">Kajian kepustakaan filosofis dengan dua objek yang dibedakan.</h2>
+<div class="method-grid reveal d3">
+<div class="method"><small>Jenis penelitian</small><h3>Kualitatif-konseptual</h3><p>Meng
