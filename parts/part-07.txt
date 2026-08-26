@@ -1,0 +1,62 @@
+/div>
+</div>
+<div class="legend reveal d4"><span><i class="w"></i>Fakta tindakan atau komitmen dikecilkan</span><span><i class="s"></i>Pilihan dibuat seolah hilang karena keadaan</span></div>
+<div class="source reveal d4">Kategori ini adalah <strong>model analitis</strong>, bukan diagnosis otomatis terhadap individu. Setiap pola tetap harus dilihat dari konteks, tindakan, batas hubungan, dan bukti yang tersedia.</div>
+</div></div>
+</section>
+<section class="scene" data-group="Analisis" data-read="12 · Temuan Utama" data-title="Temuan Utama" id="temuan">
+<div class="slide"><div class="wrap">
+<div class="eyebrow reveal">Temuan Utama</div>
+<h2 class="reveal d2">Dua struktur utama bad faith.</h2>
+<div class="findings reveal d3">
+<article class="finding" data-number="1"><small>Penyangkalan transendensi</small><h3>“Saya seolah tidak punya pilihan.”</h3><p>Subjek menggambarkan dirinya seolah sepenuhnya ditentukan oleh teknologi, keadaan hubungan, stres, atau tindakan orang lain.</p><p class="plain">Keadaan diakui, tetapi pilihan dibuat menghilang.</p></article>
+<article class="finding" data-number="2"><small>Penyangkalan faktisitas</small><h3>“Fakta yang terjadi tidak terlalu berarti.”</h3><p>Subjek mengecilkan komitmen, isi komunikasi, kerahasiaan, tindakan, atau akibat yang sudah menjadi bagian dari situasi.</p><p class="plain">Pilihan diakui, tetapi faktanya dibuat mengecil.</p></article>
+</div>
+<div class="keyline reveal d4"><strong>Intinya:</strong> alasan bisa benar sebagai konteks. Ia menjadi problem dalam kerangka bad faith ketika dipakai secara selektif untuk menghindari pengakuan atas fakta, pilihan, atau tanggung jawab.</div>
+</div></div>
+</section>
+<section class="scene" data-group="Temuan" data-read="13 · Model Sintesis" data-title="Model Sintesis" id="sintesis">
+<div class="slide"><div class="wrap">
+<div class="eyebrow reveal">Model Sintesis Penelitian</div>
+<h2 class="reveal d2">Teknologi memengaruhi situasi, tetapi tidak menggantikan subjek yang menafsirkan dan memilih.</h2>
+<div class="synthesis reveal d3">
+<div class="synth"><small>Situasi</small><strong>Relasi + teknologi + kondisi pribadi</strong><p>Konteks yang memengaruhi tindakan.</p></div>
+<div class="synth"><small>Pilihan digital</small><strong>Membalas, melanjutkan, menyembunyikan</strong><p>Respons subjek terhadap situasi.</p></div>
+<div class="synth"><small>Konflik</small><strong>Batas &amp; komitmen</strong><p>Tindakan bertemu aturan hubungan.</p></div>
+<div class="synth"><small>Rasionalisasi</small><strong>Alasan untuk menjelaskan tindakan</strong><p>Belum otomatis bad faith.</p></div>
+<div class="synth"><small>Bad faith</small><strong>Fakta / pilihan dikecilkan</strong><p>Tanggung jawab dibuat lebih kecil.</p></div>
+<div class="synth"><small>Respons</small><strong>Mengakui fakta, pilihan, akibat</strong><p>Arah pertanggungjawaban.</p></div>
+</div>
+<div class="branch reveal d4"><div><strong>Bad faith:</strong> “Keadaan membuat pilihan saya seolah bukan pilihan.”</div><div><strong>Respons bertanggung jawab:</strong> “Keadaan memang memengaruhi saya, tetapi saya tetap mengakui apa yang saya pilih dan akibatnya.”</div></div>
+</div></div>
+</section>
+<section class="scene" data-group="Temuan" data-read="14 · Jawaban Penelitian" data-title="Jawaban Penelitian" id="jawaban">
+<div class="slide"><div class="wrap">
+<div class="eyebrow reveal">Jawaban Rumusan Masalah</div>
+<h2 class="reveal d2">Tiga pertanyaan di awal kembali dijawab di sini.</h2>
+<div class="answers reveal d3">
+<article class="answer"><small>01 · Struktur bad faith</small><h3>Bad faith bukan sekadar bohong kepada orang lain.</h3><p>Ia berkaitan dengan cara subjek memahami dirinya secara tidak utuh, terutama melalui <strong>penyangkalan faktisitas</strong> atau <strong>penyangkalan transendensi</strong>.</p></article>
+<article class="answer"><small>02 · Digital infidelity</small><h3>Kontak fisik bukan satu-satunya ukuran.</h3><p>Penilaian perlu melihat <strong>niat, bentuk keintiman, batas hubungan, pola, kerahasiaan, dan dampak relasional</strong>.</p></article>
+<article class="answer"><small>03 · Rasionalisasi</small><h3>Bad faith muncul dari fungsi alasan.</h3><p>Alasan menjadi problem ketika digunakan untuk <strong>mengecilkan fakta atau membuat pilihan terlihat seolah hilang</strong>, sehingga tanggung jawab ikut dikecilkan.</p></article>
+</div>
+<div class="source reveal d4">Batas penting: hasil ini berasal dari kajian kepustakaan filosofis dan tidak dimaksudkan untuk menggeneralisasi semua pelaku atau mendiagnosis kasus individual.</div>
+</div></div>
+</section>
+<section class="scene" data-group="Temuan" data-read="15 · Kesimpulan" data-title="Kesimpulan" data-tone="dark" id="kesimpulan">
+<div class="slide"><div class="wrap closing-grid">
+<div class="reveal">
+<div class="eyebrow">Kesimpulan</div>
+<p class="thanks">Tiga hal yang perlu diingat.</p>
+<p class="lead">Penelitian ini tidak meniadakan pengaruh teknologi. Yang dibaca adalah saat pengaruh itu digunakan untuk mengecilkan pilihan atau tanggung jawab.</p>
+</div>
+<div class="closing-points reveal d3">
+<div class="closing-point"><span>01</span><p><em>Digital infidelity</em> tidak cukup dinilai dari ada atau tidaknya kontak fisik.</p></div>
+<div class="closing-point"><span>02</span><p><em>Bad faith</em> bekerja terutama melalui penyangkalan faktisitas atau penyangkalan transendensi.</p></div>
+<div class="closing-point"><span>03</span><p>Teknologi dan kondisi psikologis memengaruhi situasi, tetapi tidak otomatis menghapus pilihan dan tanggung jawab.</p></div>
+</div>
+</div></div>
+</section>
+</main>
+<div aria-label="Navigasi presentasi" class="chrome" id="chrome">
+<div class="chrome-left"><button aria-label="Buka ringkasan" class="icon-btn" id="overviewBtn" title="Ringkasan (O)">☰</button><div class="scene-status"><span id="groupLabel">Pembuka</span><strong id="counter">01 / 15</strong></div></div>
+<div class="chrome-right"><button aria-label="Sebelumnya" class="nav-btn" id="prevBtn">←</button><button aria
