@@ -46,6 +46,11 @@ let html = chunks.join('').replace(
   '<meta content="https://presentasi-sidang-fadhly.vercel.app" property="og:url"/>'
 );
 
+html = html.replace(
+  '<title>Skripsi Fadhly — Bad Faith</title>',
+  '<title>Presentasi Sidang — Fadhly Aziez Jalaluddin</title>'
+);
+
 html = html.replaceAll(
   'emosional, romantis, dan/atau seksual',
   'emosional, romantis, maupun seksual'
@@ -59,6 +64,7 @@ const required = [
   '121104011',
   '69,21%',
   '72,78%',
+  '<title>Presentasi Sidang — Fadhly Aziez Jalaluddin</title>',
   'Sidang Skripsi — Fadhly Aziez Jalaluddin',
   'Eksistensi mendahului esensi',
   'emosional, romantis, maupun seksual',
@@ -78,6 +84,7 @@ const forbidden = [
   '@/' + 'mnt/data',
   '_vercel_share=',
   'emosional, romantis, dan/atau seksual',
+  '<title>Skripsi Fadhly — Bad Faith</title>',
   '<meta content="https://skripsi-fadhly.vercel.app" property="og:url"/>'
 ];
 
