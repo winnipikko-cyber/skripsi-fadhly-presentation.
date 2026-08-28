@@ -9,6 +9,17 @@
   body:not(.read-mode) #data .slide{transform:translateY(-1vh)!important}
   body:not(.read-mode) #masalah .slide{transform:translateY(-1.5vh)!important}
 
+  /* 02 — Latar belakang: remove the oversized 'extra-enter' feeling between text blocks. */
+  body:not(.read-mode) #latar-belakang h2{margin-bottom:7px!important}
+  body:not(.read-mode) #latar-belakang .term-row{margin-top:8px!important}
+  body:not(.read-mode) #latar-belakang .visual-note{margin-top:12px!important}
+
+  /* 05 — Rumusan masalah: keep the three questions visually connected to the heading. */
+  body:not(.read-mode) #rumusan h2{margin-bottom:5px!important}
+  body:not(.read-mode) #rumusan .questions{margin-top:6px!important}
+  body:not(.read-mode) #rumusan .question-row{padding:6px 0!important}
+  body:not(.read-mode) #rumusan .goal-line{margin-top:5px!important}
+
   /* 08 — Sartre: slightly fuller portrait and better optical centering. */
   body:not(.read-mode) #sartre .slide{transform:translateY(1vh)!important}
   body:not(.read-mode) #sartre .sartre-grid{grid-template-columns:104px 1fr!important;gap:14px!important}
