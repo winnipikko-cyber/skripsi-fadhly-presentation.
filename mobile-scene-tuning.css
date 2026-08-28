@@ -1,4 +1,54 @@
-/* Fine-grained mobile composition tuning for presentation mode only */
+/* Fine-grained composition tuning. Only targeted scene overrides live here. */
+
+/* 09 — Bad faith band: desktop = balanced three-column concept, centered on the core idea. */
+#teori .badfaith-band{
+  grid-template-columns:minmax(0,1fr) minmax(250px,.9fr) minmax(0,1fr)!important;
+  align-items:center!important;
+  column-gap:34px!important;
+  padding:18px 30px!important;
+}
+#teori .badfaith-band span:first-child{
+  justify-self:start!important;
+  text-align:left!important;
+  max-width:245px;
+  line-height:1.35!important;
+}
+#teori .badfaith-band strong{
+  justify-self:center!important;
+  text-align:center!important;
+  min-width:250px;
+  line-height:1.08!important;
+}
+#teori .badfaith-band span:last-child{
+  justify-self:end!important;
+  text-align:right!important;
+  max-width:270px;
+  line-height:1.35!important;
+}
+
+/* Mobile/tablet presentation: stack the same three ideas vertically and center them. */
+@media (max-width:900px){
+  body:not(.read-mode) #teori .badfaith-band{
+    grid-template-columns:1fr!important;
+    gap:7px!important;
+    padding:14px 12px!important;
+    text-align:center!important;
+  }
+  body:not(.read-mode) #teori .badfaith-band span:first-child,
+  body:not(.read-mode) #teori .badfaith-band span:last-child{
+    justify-self:center!important;
+    text-align:center!important;
+    max-width:none!important;
+    width:100%!important;
+  }
+  body:not(.read-mode) #teori .badfaith-band strong{
+    justify-self:center!important;
+    min-width:0!important;
+    width:100%!important;
+    text-align:center!important;
+  }
+}
+
 @media (max-width:560px){
   /* Stop globally pulling every slide upward. Dense scenes need their own optical center. */
   body:not(.read-mode) .slide{transform:translateY(0)!important}
@@ -38,7 +88,9 @@
   body:not(.read-mode) #teori .concept-box{padding:11px!important}
   body:not(.read-mode) #teori .concept-box h3{font-size:17px!important}
   body:not(.read-mode) #teori .concept-box p{font-size:10px!important}
-  body:not(.read-mode) #teori .badfaith-band{padding:11px 9px!important}
+  body:not(.read-mode) #teori .badfaith-band{padding:12px 10px!important;gap:6px!important}
+  body:not(.read-mode) #teori .badfaith-band span{font-size:9.5px!important;line-height:1.25!important}
+  body:not(.read-mode) #teori .badfaith-band strong{font-size:18px!important;line-height:1.08!important}
 
   /* 10 — Object material: make all five criteria labels stay on one line. */
   body:not(.read-mode) #digital-infidelity .slide{transform:translateY(1vh)!important}
