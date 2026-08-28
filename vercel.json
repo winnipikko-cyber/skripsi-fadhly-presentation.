@@ -2,6 +2,7 @@
   "buildCommand": "node build.mjs",
   "outputDirectory": "dist",
   "cleanUrls": true,
+  "alias": ["presentasi-sidang-fadhly.vercel.app"],
   "headers": [
     {
       "source": "/(.*)",
