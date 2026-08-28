@@ -1,0 +1,50 @@
+/* Fine-grained mobile composition tuning for presentation mode only */
+@media (max-width:560px){
+  /* Stop globally pulling every slide upward. Dense scenes need their own optical center. */
+  body:not(.read-mode) .slide{transform:translateY(0)!important}
+
+  /* Keep early slides intentionally higher. */
+  body:not(.read-mode) #cover .slide{transform:translateY(-7vh)!important}
+  body:not(.read-mode) #latar-belakang .slide{transform:translateY(-4vh)!important}
+  body:not(.read-mode) #data .slide{transform:translateY(-1vh)!important}
+  body:not(.read-mode) #masalah .slide{transform:translateY(-1.5vh)!important}
+
+  /* 08 — Sartre: slightly fuller portrait and better optical centering. */
+  body:not(.read-mode) #sartre .slide{transform:translateY(1vh)!important}
+  body:not(.read-mode) #sartre .sartre-grid{grid-template-columns:104px 1fr!important;gap:14px!important}
+  body:not(.read-mode) #sartre .portrait{height:158px!important}
+  body:not(.read-mode) #sartre h2{font-size:27px!important;line-height:1.045!important}
+  body:not(.read-mode) #sartre .lead{font-size:14.5px!important;line-height:1.34!important}
+  body:not(.read-mode) #sartre .sartre-facts{font-size:9.8px!important;line-height:1.3!important}
+
+  /* 09 — Theory: move the whole model into the visual center and normalize arrows. */
+  body:not(.read-mode) #teori .slide{transform:translateY(2vh)!important}
+  body:not(.read-mode) #teori .connector{font-size:0!important;transform:none!important}
+  body:not(.read-mode) #teori .connector::before{content:'↓';font-size:15px;line-height:1;color:var(--wine)}
+  body:not(.read-mode) #teori .concept-box{padding:11px!important}
+  body:not(.read-mode) #teori .concept-box h3{font-size:17px!important}
+  body:not(.read-mode) #teori .concept-box p{font-size:10px!important}
+  body:not(.read-mode) #teori .badfaith-band{padding:11px 9px!important}
+
+  /* 10 — Object material: keep its definition as the visual hero, but center the group. */
+  body:not(.read-mode) #digital-infidelity .slide{transform:translateY(1vh)!important}
+  body:not(.read-mode) #digital-infidelity .definition{font-size:21px!important;line-height:1.23!important}
+  body:not(.read-mode) #digital-infidelity .criterion strong{font-size:9.4px!important}
+
+  /* 11 — Rationalizations: balanced center, slightly stronger quote hierarchy. */
+  body:not(.read-mode) #rasionalisasi .slide{transform:translateY(0)!important}
+  body:not(.read-mode) #rasionalisasi .rational{padding:9px!important}
+  body:not(.read-mode) #rasionalisasi .rational strong{font-size:14.5px!important}
+
+  /* 12 — Findings: lower the block so the two findings sit around the optical center. */
+  body:not(.read-mode) #temuan .slide{transform:translateY(3vh)!important}
+  body:not(.read-mode) #temuan .finding{padding:13px!important}
+  body:not(.read-mode) #temuan .finding h3{font-size:18px!important}
+  body:not(.read-mode) #temuan .finding .plain{font-size:15px!important}
+
+  /* 13 — Synthesis: it was visually too high; center it and give the final contrast boxes more presence. */
+  body:not(.read-mode) #sintesis .slide{transform:translateY(2.5vh)!important}
+  body:not(.read-mode) #sintesis .synth{padding:10px 9px!important}
+  body:not(.read-mode) #sintesis .synth strong{font-size:12.5px!important}
+  body:not(.read-mode) #sintesis .branch div{padding:9px!important;font-size:10px!important;line-height:1.28!important}
+}
