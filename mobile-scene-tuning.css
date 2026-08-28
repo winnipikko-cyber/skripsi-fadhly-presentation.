@@ -5,9 +5,23 @@
 
   /* Keep early slides intentionally higher. */
   body:not(.read-mode) #cover .slide{transform:translateY(-7vh)!important}
-  body:not(.read-mode) #latar-belakang .slide{transform:translateY(-4vh)!important}
+  body:not(.read-mode) #latar-belakang .slide{transform:translateY(-1vh)!important}
   body:not(.read-mode) #data .slide{transform:translateY(-1vh)!important}
   body:not(.read-mode) #masalah .slide{transform:translateY(-1.5vh)!important}
+
+  /* 02 — Latar belakang: remove the inherited desktop grid gap and balance the group. */
+  body:not(.read-mode) #latar-belakang .split{gap:14px!important}
+  body:not(.read-mode) #latar-belakang h2{margin-bottom:9px!important}
+  body:not(.read-mode) #latar-belakang .term-row{margin-top:10px!important}
+  body:not(.read-mode) #latar-belakang .visual-note{margin-top:4px!important}
+
+  /* 05 — Rumusan masalah: give the content more presence and a lower optical center. */
+  body:not(.read-mode) #rumusan .slide{transform:translateY(1.5vh)!important}
+  body:not(.read-mode) #rumusan h2{font-size:31px!important;line-height:1.03!important;margin-bottom:9px!important}
+  body:not(.read-mode) #rumusan .questions{margin-top:8px!important}
+  body:not(.read-mode) #rumusan .question-row{padding:8px 0!important;grid-template-columns:32px 1fr!important;gap:8px!important}
+  body:not(.read-mode) #rumusan .question-row p{font-size:13.5px!important;line-height:1.22!important}
+  body:not(.read-mode) #rumusan .goal-line{font-size:10.5px!important;line-height:1.28!important;margin-top:8px!important}
 
   /* 08 — Sartre: slightly fuller portrait and better optical centering. */
   body:not(.read-mode) #sartre .slide{transform:translateY(1vh)!important}
