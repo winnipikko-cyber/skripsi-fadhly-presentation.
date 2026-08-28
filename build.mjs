@@ -13,6 +13,7 @@ const chunks = await Promise.all(
   files.map((name) => readFile(new URL(name, dir), 'utf8'))
 );
 const mobileCss = await readFile(new URL('./mobile-presentation.css', import.meta.url), 'utf8');
+const mobileSceneTuningCss = await readFile(new URL('./mobile-scene-tuning.css', import.meta.url), 'utf8');
 
 const mobileSwipePatch = `
 <script>
@@ -45,7 +46,7 @@ let html = chunks.join('').replace(
   '<meta content="https://presentasi-sidang-fadhly.vercel.app" property="og:url"/>'
 );
 
-html = html.replace('</style>', `\n${mobileCss}\n</style>`);
+html = html.replace('</style>', `\n${mobileCss}\n${mobileSceneTuningCss}\n</style>`);
 html = html.replace('</body>', `${mobileSwipePatch}\n</body>`);
 
 const required = [
@@ -58,6 +59,7 @@ const required = [
   'https://bad-faith-sidang.vercel.app',
   '<meta content="https://presentasi-sidang-fadhly.vercel.app" property="og:url"/>',
   'Mobile presentation: preserve read mode',
+  'Fine-grained mobile composition tuning',
   "document.getElementById(dx < 0 ? 'nextBtn' : 'prevBtn')?.click()"
 ];
 
