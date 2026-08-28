@@ -13,7 +13,10 @@ const chunks = await Promise.all(
   files.map((name) => readFile(new URL(name, dir), 'utf8'))
 );
 
-const html = chunks.join('');
+const html = chunks.join('').replace(
+  '<meta content="https://skripsi-fadhly.vercel.app" property="og:url"/>',
+  '<meta content="https://presentasi-sidang-fadhly.vercel.app" property="og:url"/>'
+);
 
 const required = [
   '<!DOCTYPE html>',
@@ -22,7 +25,8 @@ const required = [
   '72,78%',
   'Sidang Skripsi — Fadhly Aziez Jalaluddin',
   'Eksistensi mendahului esensi',
-  'https://bad-faith-sidang.vercel.app'
+  'https://bad-faith-sidang.vercel.app',
+  '<meta content="https://presentasi-sidang-fadhly.vercel.app" property="og:url"/>'
 ];
 
 for (const marker of required) {
@@ -32,7 +36,8 @@ for (const marker of required) {
 const forbidden = [
   'DecompressionStream',
   '@/' + 'mnt/data',
-  '_vercel_share='
+  '_vercel_share=',
+  '<meta content="https://skripsi-fadhly.vercel.app" property="og:url"/>'
 ];
 
 for (const marker of forbidden) {
