@@ -46,6 +46,11 @@ let html = chunks.join('').replace(
   '<meta content="https://presentasi-sidang-fadhly.vercel.app" property="og:url"/>'
 );
 
+html = html.replaceAll(
+  'emosional, romantis, dan/atau seksual',
+  'emosional, romantis, maupun seksual'
+);
+
 html = html.replace('</style>', `\n${mobileCss}\n${mobileSceneTuningCss}\n</style>`);
 html = html.replace('</body>', `${mobileSwipePatch}\n</body>`);
 
@@ -56,6 +61,7 @@ const required = [
   '72,78%',
   'Sidang Skripsi — Fadhly Aziez Jalaluddin',
   'Eksistensi mendahului esensi',
+  'emosional, romantis, maupun seksual',
   'https://bad-faith-sidang.vercel.app',
   '<meta content="https://presentasi-sidang-fadhly.vercel.app" property="og:url"/>',
   'Mobile presentation: preserve read mode',
@@ -71,6 +77,7 @@ const forbidden = [
   'DecompressionStream',
   '@/' + 'mnt/data',
   '_vercel_share=',
+  'emosional, romantis, dan/atau seksual',
   '<meta content="https://skripsi-fadhly.vercel.app" property="og:url"/>'
 ];
 
