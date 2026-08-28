@@ -26,16 +26,22 @@
   body:not(.read-mode) #teori .concept-box p{font-size:10px!important}
   body:not(.read-mode) #teori .badfaith-band{padding:11px 9px!important}
 
-  /* 10 — Object material: keep its definition as the visual hero, but center the group. */
+  /* 10 — Object material: make all five criteria labels stay on one line. */
   body:not(.read-mode) #digital-infidelity .slide{transform:translateY(1vh)!important}
   body:not(.read-mode) #digital-infidelity .definition{font-size:21px!important;line-height:1.23!important}
-  body:not(.read-mode) #digital-infidelity .criterion strong{font-size:9.4px!important}
-  /* Criteria 02 and 05 wrap to two lines on narrow phones; keep the two lines visually tight. */
-  body:not(.read-mode) #digital-infidelity .criterion:nth-child(2) strong,
-  body:not(.read-mode) #digital-infidelity .criterion:nth-child(5) strong{
+  body:not(.read-mode) #digital-infidelity .criteria{
+    grid-template-columns:.58fr 1.22fr 1.05fr .88fr 1.38fr!important;
+  }
+  body:not(.read-mode) #digital-infidelity .criterion{
+    padding:6px 3px!important;
+    min-width:0!important;
+  }
+  body:not(.read-mode) #digital-infidelity .criterion strong{
     display:block!important;
-    line-height:1.02!important;
-    letter-spacing:-.015em!important;
+    font-size:8.6px!important;
+    line-height:1.05!important;
+    letter-spacing:-.02em!important;
+    white-space:nowrap!important;
   }
 
   /* 11 — Rationalizations: balanced center, slightly stronger quote hierarchy. */
